@@ -1,4 +1,4 @@
-# 3
+# Vue-Task-Creator-Project
 
 ## Project setup
 ```
