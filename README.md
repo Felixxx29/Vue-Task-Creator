@@ -1,4 +1,7 @@
 # Vue-Task-Creator-Project
+```
+Tasks will be created in local storage
+```
 
 ## Project setup
 ```
